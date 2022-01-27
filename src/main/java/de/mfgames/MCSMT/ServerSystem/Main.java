@@ -1,6 +1,4 @@
-package de.mfgames.cloudnetabklatsch.ServerSystem;
-
-import org.json.simple.parser.ParseException;
+package de.mfgames.MCSMT.ServerSystem;
 
 import java.io.IOException;
 import java.nio.file.Files;

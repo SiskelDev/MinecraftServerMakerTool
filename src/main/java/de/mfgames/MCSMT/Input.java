@@ -1,4 +1,4 @@
-package de.mfgames.cloudnetabklatsch;
+package de.mfgames.MCSMT;
 
 import java.util.Scanner;
 

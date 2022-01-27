@@ -1,4 +1,4 @@
-package de.mfgames.cloudnetabklatsch;
+package de.mfgames.MCSMT;
 
 public class Main {
     public static int getinput;
@@ -14,7 +14,7 @@ public class Main {
         if (getinput == 1) {
             System.out.println("1");
         } else if (getinput == 2) {
-            de.mfgames.cloudnetabklatsch.ServerSystem.Main.Start();
+            de.mfgames.MCSMT.ServerSystem.Main.Start();
         }
     }
 }

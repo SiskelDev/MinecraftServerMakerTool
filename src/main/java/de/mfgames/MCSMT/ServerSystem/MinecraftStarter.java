@@ -1,4 +1,4 @@
-package de.mfgames.cloudnetabklatsch.ServerSystem;
+package de.mfgames.MCSMT.ServerSystem;
 
 public class MinecraftStarter {
     // Modded Servers

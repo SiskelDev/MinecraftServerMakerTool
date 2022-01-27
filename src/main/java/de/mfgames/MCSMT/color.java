@@ -1,4 +1,4 @@
-package de.mfgames.cloudnetabklatsch;
+package de.mfgames.MCSMT;
 
 public class color {
     public static final String COLOR_RESET = "\u001B[0m";
