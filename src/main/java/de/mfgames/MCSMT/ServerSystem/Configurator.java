@@ -47,6 +47,6 @@ public class Configurator {
 
 
     public static void firstConfig() {
-
+        
     }
 }

@@ -1,6 +1,6 @@
 package de.mfgames.MCSMT.ServerSystem;
 
-public class MinecraftStarter {
+public class ServerStarter {
     // Modded Servers
     public static void StartForge() {
 
